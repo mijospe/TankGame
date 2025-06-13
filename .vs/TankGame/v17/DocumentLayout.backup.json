@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\EnemyBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:EnemyBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Tank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:Tank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\EnemyBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:EnemyBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\EnemyBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{005ACF8D-729B-44DB-9B74-BF5BC90BCC6F}|TankGame.vcxproj|solutionrelative:EnemyBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +39,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tank.h",
+              "DocumentMoniker": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Tank.h",
+              "RelativeDocumentMoniker": "Tank.h",
+              "ToolTip": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Tank.h",
+              "RelativeToolTip": "Tank.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T14:45:25.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-13T13:09:40.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Player.cpp",
               "DocumentMoniker": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
               "ToolTip": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-13T13:25:54.868Z"
+              "WhenOpened": "2025-06-13T13:25:54.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -71,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EnemyBase.h",
               "DocumentMoniker": "D:\\Documents\\School\\HKU\\Leerjaar 1\\Design Patterns\\Integrated Gameplay Systems\\TankGame\\EnemyBase.h",
               "RelativeDocumentMoniker": "EnemyBase.h",

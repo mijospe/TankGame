@@ -1,0 +1,16 @@
+﻿  BoxCollider.cpp
+  Command.cpp
+  EnemyBase.cpp
+  Event.cpp
+  IGameBehaviour.cpp
+  InputManager.cpp
+  Main.cpp
+  ObjectPool.cpp
+  Player.cpp
+  Projectile.cpp
+  Tank.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 729 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TankGame.vcxproj -> D:\Documents\School\HKU\Leerjaar 1\Design Patterns\Integrated Gameplay Systems\TankGame\x64\Release\TankGame.exe

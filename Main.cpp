@@ -20,6 +20,12 @@ int main()
 
 	// Create Music
 	sf::Music music{};
+	// Play Tank Music
+	if (music.openFromFile("TankMusic.mp3"))
+	{
+		music.setLoop(true);
+		music.play();
+	}
 
 	// Enemy list
 	std::vector<std::unique_ptr<Tank>> enemies;
@@ -39,13 +45,6 @@ int main()
 	{
 		std::unique_ptr<EnemyBase> tempEnemy = std::make_unique<EnemyBase>(sf::Vector2f(0, 0), sf::Color(255, 0, 0), sf::Color(100, 0, 0), &player);
 		enemies.push_back(std::move(tempEnemy));
-	}
-
-	// Play Tank Music
-	if (music.openFromFile("TankMusic.mp3"))
-	{
-		music.setLoop(true);
-		music.play();
 	}
 
 	// Main Gameplay Loop
